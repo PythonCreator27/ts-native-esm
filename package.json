@@ -1,0 +1,13 @@
+{
+  "name": "ts-native-esm",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "p-timeout": "^5.0.0"
+  }
+}
